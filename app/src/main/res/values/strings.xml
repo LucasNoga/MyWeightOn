@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- a mettre en anglais-->
+    <string name="app_name">MyWeightOn</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lune">Moon</string>
+    <string name="Jupiter">Jupiter</string>
+    <string name="Mercure">Mercure</string>
+    <string name="Mars">Mars</string>
+    <string name="label1">Your weight\non Earth :</string>
+    <string name="label2">Calculate your weight on</string>
+    <string name="textON">KG</string>
+    <string name="textOFF">LBS</string>
+    <string name="textview3">"Your weight on "</string>
+    <string name="saisi" >Enter your weight</string>
+</resources>

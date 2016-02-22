@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">MyWeightOn</string>
+        <string name="action_settings">Settings</string>
+        <string name="Lune">Lune</string>
+        <string name="Jupiter">Jupiter</string>
+        <string name="Mercure">Mercure</string>
+        <string name="Mars">Mars</string>
+        <string name="label1">Votre poids\nsur Terre :</string>
+        <string name="label2">Calculez votre poids sur</string>
+        <string name="textON">KG</string>
+        <string name="textOFF">LBS</string>
+        <string name="textview3">"Votre poids sur "</string>
+        <string name="saisi" >Entrez votre poids</string>
+</resources>
